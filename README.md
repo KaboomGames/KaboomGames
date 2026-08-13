@@ -56,7 +56,9 @@
 
 🎮Upcoming Games
 -----------------------------------------------------------------------
-<img width="460" height="215" alt="header" src="https://github.com/user-attachments/assets/d1d4a795-6105-46bd-a52a-98b78fba76b2" />  <img width="460" height="218" alt="Git_Image" src="https://github.com/user-attachments/assets/b71df8a8-ec70-477d-ab3a-f3f8a9b3eb07" />
+<img width="460" height="218" alt="Git_Image" src="https://github.com/user-attachments/assets/5050c6a8-b51f-4676-9d37-d235c8c6e138" />
+<img width="460" height="215" alt="header" src="https://github.com/user-attachments/assets/16ab48eb-28ce-4978-8179-2168e4b5b8e3" />
+
 
 
 
