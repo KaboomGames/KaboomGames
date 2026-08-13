@@ -45,6 +45,12 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
 
+🎮Upcoming Games
+-----------------------------------------------------------------------
+<img width="460" height="218" alt="Git_Image" src="https://github.com/user-attachments/assets/5050c6a8-b51f-4676-9d37-d235c8c6e138" />
+<img width="460" height="215" alt="header" src="https://github.com/user-attachments/assets/16ab48eb-28ce-4978-8179-2168e4b5b8e3" />
+
+
 🧠 Skills
 -----------------------------------------------------------------------
 🎮 Game Development
@@ -53,16 +59,6 @@
 🧠 Learning new technologies
 🚀 2D/3D Modeling & Animation
 🎯 Turning ideas into playable experiences
-
-🎮Upcoming Games
------------------------------------------------------------------------
-<img width="460" height="218" alt="Git_Image" src="https://github.com/user-attachments/assets/5050c6a8-b51f-4676-9d37-d235c8c6e138" />
-<img width="460" height="215" alt="header" src="https://github.com/user-attachments/assets/16ab48eb-28ce-4978-8179-2168e4b5b8e3" />
-
-
-
-
-
 
 
 
