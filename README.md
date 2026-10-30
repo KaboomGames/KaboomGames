@@ -46,7 +46,8 @@
 
 🎮Released Games
 -----------------------------------------------------------------------
-<img width="460" height="218" alt="Git_Image" src="https://github.com/user-attachments/assets/5050c6a8-b51f-4676-9d37-d235c8c6e138" />
+<img width="920" height="430" alt="Library_Header" src="https://github.com/user-attachments/assets/a757049c-f49a-495b-8af0-f1c204c58f6d" />
+
 
 🎮Upcoming Games
 -----------------------------------------------------------------------
