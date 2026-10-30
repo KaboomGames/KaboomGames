@@ -46,7 +46,9 @@
 
 🎮Released Games
 -----------------------------------------------------------------------
-<img width="920" height="430" alt="Library_Header" src="https://github.com/user-attachments/assets/a757049c-f49a-495b-8af0-f1c204c58f6d" />
+[![Steam](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black)](https://store.steampowered.com/app/5148200/Ashes_Of_The_Fallen/)
+<img width="460" height="215" alt="Main_Capsule" src="https://github.com/user-attachments/assets/7733371c-0b8f-4f94-99e2-364641b139d2" />
+
 
 
 🎮Upcoming Games
