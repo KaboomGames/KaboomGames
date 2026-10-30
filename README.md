@@ -59,6 +59,10 @@
 -----------------------------------------------------------------------
 <img width="460" height="215" alt="header" src="https://github.com/user-attachments/assets/16ab48eb-28ce-4978-8179-2168e4b5b8e3" />
 
+<a href="https://store.steampowered.com/app/3819880/The_Hunt_In_Sanity/">
+  <img width="460" height="215" alt="GauNfb" src="https://github.com/user-attachments/assets/7f006f1b-2e9d-4720-8bb3-a8244352d192" />
+</a>
+
 
 🧠 Skills
 -----------------------------------------------------------------------
