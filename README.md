@@ -49,7 +49,7 @@
 <img width="460" height="215" alt="Library_Header" src="https://github.com/user-attachments/assets/0f178feb-1237-4f61-8735-db1314bde8dc" />
 
 <a href="https://store.steampowered.com/app/5148200/Ashes_Of_The_Fallen/">
-  <<img width="2120" height="1080" alt="GauNfb" src="https://github.com/user-attachments/assets/7f006f1b-2e9d-4720-8bb3-a8244352d192" />/>
+  <<img width="460" height="200" alt="GauNfb" src="https://github.com/user-attachments/assets/7f006f1b-2e9d-4720-8bb3-a8244352d192" />/>
 </a>
 
 
